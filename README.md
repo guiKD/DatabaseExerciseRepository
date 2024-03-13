@@ -19,6 +19,3 @@ Conter
 
                 Cardinalidades 
 
----------------------------------------------------------------------------
-
-Fiz um Mer e um Der no BrModelo
