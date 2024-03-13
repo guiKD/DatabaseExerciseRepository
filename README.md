@@ -7,7 +7,7 @@ agenda, cliente, serviços
 
 Atributos das tabelas e relacionamentos e na sua cardinalidade 
 
-Desenvolver um MER para um cliente do pet shop 
+Desenvolver um DER para um cliente do pet shop 
 
 Conter 
 
